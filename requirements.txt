@@ -1,5 +1,7 @@
+streamlit>=1.50
 fastapi
 uvicorn
-yfinance
+yfinance>=0.2.50
 pandas
 numpy
+plotly
